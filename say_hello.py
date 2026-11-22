@@ -23,5 +23,4 @@ entry.pack(pady=10)
 button.pack(pady=10)
 greating_name.pack(pady=20)
 
-
 window.mainloop()
